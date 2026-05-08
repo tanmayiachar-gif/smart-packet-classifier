@@ -1,0 +1,9 @@
+Timestamp,Flow Duration,Fwd Packets,Bwd Packets,Fwd Length Mean,Bwd Length Mean,Prediction
+2025-07-11 21:58:09,45000,22,18,512.3,486.7,Video Stream
+2025-07-11 21:58:25,45000,22,18,512.3,486.7,Video Stream
+2025-07-11 21:58:37,45000,22,18,512.3,486.7,Video Stream
+2025-07-11 21:58:44,45000,22,18,512.3,486.7,Video Stream
+2025-07-11 21:58:54,45000,22,18,512.3,486.7,Video Stream
+2025-07-11 21:58:59,45000,22,18,512.3,486.7,Video Stream
+2025-07-11 21:59:13,45000,22,18,512.3,486.7,Video Stream
+2025-07-11 22:03:03,70000,22,18,512.3,486.7,Suspicious
